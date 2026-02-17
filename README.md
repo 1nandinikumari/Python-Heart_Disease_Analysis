@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Analysis – Exploratory Data Analysis (EDA) using Python
+# ❤️ Heart Disease Analysis – using Python
 
 ---
 
